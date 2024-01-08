@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am a student from Shenzhen University, and learning computer science. 
+Now I am exploring world of AI and big data, my profession teaches me C++ while my next goal is to study python and Hive SQL.
 <!--
 **FMonitor/FMonitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
