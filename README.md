@@ -21,7 +21,7 @@
 - **Server mode**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;❤️ Survive | Origin | Plugin 
 - **Featured gameplay**: 🌱 Territory | Socialize | Daily tasks | Badge system
 - **Player community**: &nbsp; 🗨️ QQ: 971926236
-- 
+  
 ps: No mods are required to join this server, only a native 1.20.1 client is needed!
 
 ---
