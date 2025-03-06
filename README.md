@@ -18,9 +18,11 @@
 <div align="center"> <img src="https://i.imgur.com/u3bK5Sy.png" border="0"> </div>
 
 - **Server ip**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔗 `szucraft.cn`
-- **Server mode**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;❤️ Survive | Origin | Plugin
+- **Server mode**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;❤️ Survive | Origin | Plugin 
 - **Featured gameplay**: 🌱 Territory | Socialize | Daily tasks | Badge system
 - **Player community**: &nbsp; 🗨️ QQ: 971926236
+- 
+ps: No mods are required to join this server, only a native 1.20.1 client is needed!
 
 ---
 
