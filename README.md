@@ -17,10 +17,10 @@
 
 <div align="center"> <img src="https://i.imgur.com/u3bK5Sy.png" border="0"> </div>
 
-- **Server ip**: 🔗 `szucraft.cn`
-- **Server mode**:❤️ Survive | Origin | Plugin
+- **Server ip**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔗 `szucraft.cn`
+- **Server mode**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;❤️ Survive | Origin | Plugin
 - **Featured gameplay**: 🌱 Territory | Socialize | Daily tasks | Badge system
-- **Player community**: &nbsp;🗨️ QQ: 971926236
+- **Player community**: &nbsp; 🗨️ QQ: 971926236
 
 ---
 
