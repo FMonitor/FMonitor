@@ -26,6 +26,4 @@ ps: No mods are required to join this server, only a native 1.20.1 client is nee
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FMonitor&left_color=green&right_color=red)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FMonitor&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
