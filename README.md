@@ -13,6 +13,10 @@
 
 ---
 
+### Current Project ### Easy 3D Icon
+
+---
+
 ## 🌍 Joining our Minecraft Server!
 
 <div align="center"> <img src="https://i.imgur.com/u3bK5Sy.png" border="0"> </div>
