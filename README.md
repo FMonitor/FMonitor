@@ -13,7 +13,9 @@
 
 ---
 
-### Current Project ### Easy 3D Icon
+### Current Project ### 
+
+Easy 3D Icon, which is really cool to make icons fit my wallpaper
 
 ---
 
