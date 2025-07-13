@@ -69,6 +69,8 @@ Loss = E[(Q_target - Q_predicted)²]
 
 ### 2.2 目标 Q 值计算
 
+针对提取的经验 `(s, a, r, s')`，目标 Q 值的计算如下：
+
 ```mermaid
 graph TD
     A[当前状态 s] --> B[执行动作 a]
@@ -76,10 +78,10 @@ graph TD
     B --> D[到达新状态 s']
     C --> E[目标Q值计算]
     D --> F[目标网络预测 Q_target_net]
-    F --> G[max Q_target_net(s', a')]
+    F --> G["max Q_target_net(s', a')"]
     G --> E
-    E --> H[Q_target = r + γ × max Q_target_net(s', a')]
-    
+    E --> H["Q_target = r + γ × max Q_target_net(s', a')"]
+
     style E fill:#ff9999
     style H fill:#99ccff
 ```
@@ -116,10 +118,10 @@ flowchart TD
     A[经验池采样] --> B[批次数据]
     B --> C[主网络前向传播]
     B --> D[目标网络前向传播]
-    
-    C --> E[Q_predicted = Q_main(s,a)]
-    D --> F[Q_next_max = max Q_target(s')]
-    
+
+    C --> E["Q_predicted = Q_main(s,a)"]
+    D --> F["Q_next_max = max Q_target(s')"]
+
     F --> G[判断是否终止状态]
     G -->|是| H[Q_target = reward]
     G -->|否| I[Q_target = reward + γ × Q_next_max]
@@ -127,8 +129,8 @@ flowchart TD
     H --> J[计算 TD 误差]
     I --> J
     E --> J
-    
-    J --> K[Loss = (Q_target - Q_predicted)²]
+
+    J --> K["Loss = (Q_target - Q_predicted)²"]
     K --> L[反向传播更新主网络]
     
     style K fill:#ffcc99
