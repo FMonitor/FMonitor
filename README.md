@@ -13,9 +13,11 @@
 
 ---
 
-### Current Project ### 
+### Activities ###
 
-Easy 3D Icon, which is really cool to make icons fit my wallpaper
+- **Mathematics:** [Matrix derivatives](MyNotes/Mathematics/MatrixCalculation/Readme.md)
+- **Research:** Multiobjective Optimization Problems
+- **Exploration:** Deep Reinforcement Learning
 
 ---
 
