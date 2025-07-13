@@ -15,9 +15,10 @@
 
 ### Activities ###
 
-- **Mathematics:** [Matrix derivatives](MyNotes/Mathematics/MatrixCalculation/Readme.md)
+- **Mathematics:** [Matrix derivatives](MyNotes/Mathematics/MatrixCalculation/)
 - **Research:** Multiobjective Optimization Problems
 - **Exploration:** Deep Reinforcement Learning
+  - [DQN](MyNotes/DeepReinforcementLearning/DQN/)
 
 ---
 
