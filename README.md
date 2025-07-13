@@ -18,7 +18,7 @@
 - **Mathematics:** [Matrix derivatives](MyNotes/Mathematics/MatrixCalculation/)
 - **Research:** Multiobjective Optimization Problems
 - **Exploration:** Deep Reinforcement Learning
-  - [DQN](MyNotes/DeepReinforcementLearning/DQN/)
+  - [DQN](MyNotes/ReinforcementLearning/DQN/)
 
 ---
 
