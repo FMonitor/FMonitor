@@ -1,24 +1,55 @@
+# 🧱 Welcome to My GitHub 🧱
 
-# 🧱 Welcome to My GitHub 🧱 #
+Hi! I'm **FMonitor**, a Computer Science undergraduate at Shenzhen University.
 
-💻 **My major**: I major in computer science as an undergraduate, and I really enjoy coding.
+I enjoy building things, taking systems apart, and figuring out how they work.
 
-🔬 **Reserch subject**：Multiobjective Optimization Problems, Maching Learing
+### 🔬 What I'm interested in
 
-📸 **Intersted in**： Playing minecraft. I've played minecraft for almost 14 yrs (really), dreamed to create mods & servers by myself.
+* **AI & LLMs** — especially LLM systems, agents, and local inference
+* **Infrastructure** — Linux, distributed systems, cloud-native technologies, and SRE
+* **Research** — Large-Scale Sparse Multiobjective Optimization
+* **Programming** — mostly C++, Python, and whatever language a project happens to need
 
-🛠️ **Working on**： Investigate on my subject and update an minecraft server with my fellows, probably develop some small projects.
+### 🛠️ What I'm working on
 
-🗨️ **Get in touch**: Email me at _13723423785@163.com_, or Wechat _13723423785_ (Active). Feel free to contact me!
+Currently, I'm exploring the intersection of AI and infrastructure, while continuing my research on large-scale multiobjective optimization.
+
+I also like building small tools and experimental systems just because I want to know whether I can make them work.
 
 ---
 
-### Activities ###
+### 📚 Notes & Projects
 
-- **Mathematics:** [Matrix derivatives](MyNotes/Mathematics/MatrixCalculation/)
-- **Research:** Multiobjective Optimization Problems
-- **Exploration:** Deep Reinforcement Learning
-  - [DQN](MyNotes/ReinforcementLearning/DQN/)
+* **Research:** Large-Scale Sparse Multiobjective Optimization
+* **AI:** LLMs, Agents, Reinforcement Learning, or just trying new harness
+* **Infrastructure:** Linux, Kubernetes, distributed systems
+* **Minecraft:** Mods, servers, and other things I've been messing with for way too long
+
+---
+
+## ⛏️ Minecraft
+
+I've been playing Minecraft for almost **14 years**.
+
+At some point, I started thinking:
+
+> "What if I just build the server myself?"
+
+So I did.
+
+I still enjoy working on Minecraft servers and experimenting with mods, plugins, and whatever else happens to break at 3 AM.
+
+---
+
+### 📫 Get in touch
+
+Wechat:13723423785 | QQ:1428098869
+
+Feel free to contact me at any time!
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FMonitor\&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
@@ -34,5 +65,3 @@
 ps: No mods are required to join this server, only a native 1.20.1 client is needed!
 
 ---
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FMonitor&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
